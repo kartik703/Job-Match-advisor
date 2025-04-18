@@ -1,0 +1,11 @@
+openai
+langchain
+langgraph
+faiss-cpu
+pdfplumber
+streamlit
+tiktoken
+pypdf
+python-dotenv
+requests
+langchain_community
